@@ -1,0 +1,2 @@
+# Sentiment-Analysis-on-IMDB-Movie-Reviews
+In this analysis, we want to create models which we can train to classify new IMDB reviews into the specified 2 categories (positive/negative review). I created Keras models by loading a data set, preprocessing input data, building a Sequential Keras model and compiling the model with a training configuration. I also created Random Forest models on the training data and evaluated it on the test set.
